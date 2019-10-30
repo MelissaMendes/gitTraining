@@ -12,9 +12,9 @@ def read_input():
     last_name = ;
 
     # Please fix the following print statement
-    'Welcome %s %s'%(first_name,last_name)
+    u='Welcome %s %s'%(first_name,last_name)
 
     #Supply the approriate return (We aren't actually returning anything :) )
-    return
+    return(u)
 
 read_input()    
